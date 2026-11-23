@@ -9,7 +9,7 @@ Region: West Europe (weu)
 | vnet-spoke1-test-weu-001 | 10.1.0.0/16 | snet-app 10.1.1.0/24, snet-pep 10.1.3.0/24 | hub |
 | vnet-spoke2-test-weu-001 | 10.2.0.0/16 | snet-app 10.2.1.0/24 | hub |
 
-Next free spoke address space: 10.3.0.0/16
+Next free spoke address space: 10.5.0.0/16 (10.3.0.0/16 and 10.4.0.0/16 are reserved for the security team)
 
 ## Name resolution
 
